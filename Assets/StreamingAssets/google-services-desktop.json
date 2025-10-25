@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "672647868919",
+    "firebase_url": "https://practicefirebase-6f51c-default-rtdb.firebaseio.com",
+    "project_id": "practicefirebase-6f51c",
+    "storage_bucket": "practicefirebase-6f51c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672647868919:android:1b48b986074759c10dfef2",
+        "android_client_info": {
+          "package_name": "com.Kyugil.TestFireBase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg3KEtf8zLcT9b2VfVKMwrjQdfmJ1BVCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
